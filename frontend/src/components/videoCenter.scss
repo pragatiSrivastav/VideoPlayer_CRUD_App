@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+
+  margin-top: 20px;
+  height: 100%;
+
+  .video-detail {
+    width: 75%;
+    //margin-bottom: 451px;
+    padding: 16px 32px;
+  }
+  .video-list {
+    display: flex;
+    align-content: flex-start;
+    width: 25%;
+
+    padding: 16px 32px;
+  }
+}

@@ -1,0 +1,14 @@
+.list-group {
+  .list-group-item {
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #262a56;
+  }
+  .title {
+    &:hover {
+      background-color: #aec2b6;
+    }
+  }
+}
